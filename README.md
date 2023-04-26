@@ -12,7 +12,7 @@
 <li><i>Muslim</i></li>
 <li><i>Studies at faculty of computer and information science</i></li>
 
-<h3><b><i>☠ Works :</i></b></h3>
+<h3><b><i>Works :</i></b></h3>
 <li> <a href="https://github.com/000sallam000/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
 
 <h3><b><i>Github Statistics :</i></b></h3>
