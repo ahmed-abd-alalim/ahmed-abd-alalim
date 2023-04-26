@@ -22,6 +22,6 @@
 <a href="https://github.com/000sallam000"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=000sallam000&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>Get in Touch :</i></b></h3>
-<a href="https://www.linkedin.com/in/sal-lam-ab422026b/"><img align="left" title="linkedin" alt="linkedin" width="30px" src="assets/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/sal-lam-ab422026b/"><img align="left" title="linkedin" alt="linkedin" width="80px" src="assets/linkedin.png" /></a>
 
 
