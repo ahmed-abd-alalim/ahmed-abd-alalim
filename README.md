@@ -5,12 +5,12 @@
 <a href="https://github.com/000sallam000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000sallam000&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<b><i>I'm a Student & A part time Programmer</i></b>
+<b>I'm a Student & A part time Programmer</b>
 
 <h3>About me :</h3>
-<li><i>Resident of Egypt</i></li>
-<li><i>Muslim</i></li>
-<li><i>Studies at faculty of computer and information science</i></li>
+<li>Resident of Egypt</li>
+<li>Muslim</li>
+<li>Studies at faculty of computer and information science</li>
 
 <h3>Works :</h3>
 <li> <a href="https://github.com/000sallam000/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
