@@ -7,18 +7,18 @@
 
 <b><i>I'm a Student & A part time Programmer</i></b>
 
-<h3><b><i>About me :</i></b></h3>
+<h3>About me :</h3>
 <li><i>Resident of Egypt</i></li>
 <li><i>Muslim</i></li>
 <li><i>Studies at faculty of computer and information science</i></li>
 
-<h3><b><i>Works :</i></b></h3>
+<h3>Works :</h3>
 <li> <a href="https://github.com/000sallam000/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
 
-<h3><b><i>Github Statistics :</i></b></h3>
+<h3>Github Statistics :</h3>
 <a href="https://github.com/000sallam000"><img width=550 src="https://github-profile-trophy.vercel.app/?username=000sallam000&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<h3><b><i>Profile Statistics :</i></b></h3>
+<h3>Profile Statistics :</h3>
 <a href="https://github.com/000sallam000"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=000sallam000&color=blueviolet&style=flat-square"></a>
 
 <h3>Get in Touch : </h3>
