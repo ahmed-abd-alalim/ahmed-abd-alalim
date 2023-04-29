@@ -1,6 +1,6 @@
 <!-- Github README -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&center=true&vCenter=true&width=1500&repeat=false&lines=HELLO,+My+name+is+Sa升升am;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=80&center=true&vCenter=true&width=1500&repeat=true&lines=HELLO,+My+name+is+Sa升升am;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 <p align="center"><a href="https://github.com/Death-Mask">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Death-Mask&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
