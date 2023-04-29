@@ -28,6 +28,6 @@
 <a href="https://github.com/Death-Mask"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Death-Mask&color=blueviolet&style=flat-square"></a>
 
 <h3>Get in Touch : </h3>
-<a href="https://www.linkedin.com/in/sal-lam-ab422026b/"><img align="left" title="linkedin" alt="linkedin" width="25px" src="assets/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/sal-lam-ab422026b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 
