@@ -16,6 +16,8 @@
 <li>Resident of Egypt</li>
 <li>Muslim</li>
 <li>Studies at faculty of computer and information science</li> 
+<li>Cyber Security Engineer</li> 
+<li>Software Developer</li> 
 
 ##
 
