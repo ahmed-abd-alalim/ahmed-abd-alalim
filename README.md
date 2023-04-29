@@ -17,7 +17,7 @@
 <li> <a href="https://github.com/Death-Mask/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
 
 <h3 align="left">Languages and Tools:</h3>
-<img title="html-5" alt="html-5" width="30px" src="assets/html-5.png"/> <img title="css" alt="css" width="25px" src="assets/css.png"/> <img title="java-script" alt="java-script" width="25px" src="assets/java-script.png"/> <img title="php" alt="php" width="25px" src="assets/php.png"/> <img title="snakes" alt="snakes" width="25px" src="assets/snakes.png"/> <img title="kali linux" alt="kali linux" width="25px" src="assets/kali-linux.png"/> <img title="c-sharp" alt="c-sharp" width="25px" src="assets/c-sharp.png"/>
+<img title="html-5" alt="html-5" width="50px" src="assets/html-5.png"/> <img title="css" alt="css" width="50px" src="assets/css.png"/> <img title="java-script" alt="java-script" width="50px" src="assets/java-script.png"/> <img title="php" alt="php" width="50px" src="assets/php.png"/> <img title="snakes" alt="snakes" width="50px" src="assets/snakes.png"/> <img title="linux" alt="linux" width="50px" src="assets/linux.png"/> <img title="c-sharp" alt="c-sharp" width="50px" src="assets/c-sharp.png"/>
   
 <h3>Github Statistics :</h3>
 <a href="https://github.com/Death-Mask"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Death-Mask&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
