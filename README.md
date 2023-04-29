@@ -20,7 +20,7 @@
 <img title="html-5" alt="html-5" width="50px" src="assets/html-5.png"/> <img title="css" alt="css" width="50px" src="assets/css.png"/> <img title="java-script" alt="java-script" width="50px" src="assets/java-script.png"/> <img title="php" alt="php" width="50px" src="assets/php.png"/> <img title="snakes" alt="snakes" width="50px" src="assets/snakes.png"/> <img title="linux" alt="linux" width="50px" src="assets/linux.png"/> <img title="c-sharp" alt="c-sharp" width="50px" src="assets/c-sharp.png"/>
   
 <h3>Github Statistics :</h3>
-<a href="https://github.com/Death-Mask"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Death-Mask&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/Death-Mask"><img width=750 src="https://github-profile-trophy.vercel.app/?username=Death-Mask&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3>Profile Statistics :</h3>
 <a href="https://github.com/Death-Mask"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Death-Mask&color=blueviolet&style=flat-square"></a>
