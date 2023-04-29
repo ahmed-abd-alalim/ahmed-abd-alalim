@@ -8,7 +8,6 @@
 <a href="https://github.com/Death-Mask"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Death-Mask&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=00FFFF&repeat=false&width=435&lines=I'm+a+Student+%26+A+part+time+Programmer)](https://github.com/Death-Mask)
 
 ##
 
@@ -16,6 +15,7 @@
 <li>Resident of Egypt</li>
 <li>Muslim</li>
 <li>Studies at faculty of computer and information science</li> 
+<li>A part time Programmer</li> 
 <li>Cyber Security Engineer</li> 
 <li>Software Developer</li> 
 
