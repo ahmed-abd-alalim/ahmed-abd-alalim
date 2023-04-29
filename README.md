@@ -23,14 +23,14 @@
 <li>Software Developer</li> 
 
 ##
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Works+%3A)](https://github.com/Death-Mask)
-<li> <a href="https://github.com/Death-Mask/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
-  
-##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Languages+and+Tools%3A)](https://github.com/Death-Mask)
 <p><img title="html-5" alt="html-5" width="50px" src="assets/html-5.png"/> <img title="css" alt="css" width="50px" src="assets/css.png"/> <img title="java-script" alt="java-script" width="50px" src="assets/java-script.png"/> <img title="php" alt="php" width="50px" src="assets/php.png"/> <img title="snakes" alt="snakes" width="50px" src="assets/snakes.png"/> <img title="linux" alt="linux" width="50px" src="assets/linux.png"/> <img title="c-sharp" alt="c-sharp" width="50px" src="assets/c-sharp.png"/></p>
+  
+##
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Works+%3A)](https://github.com/Death-Mask)
+<li> <a href="https://github.com/Death-Mask/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
   
 ##
   
@@ -39,12 +39,14 @@
   
 ##
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Profile+Statistics+%3A)](https://github.com/Death-Mask)
-<p><a href="https://github.com/Death-Mask"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Death-Mask&color=blueviolet&style=flat-square"></a></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Get+in+Touch+%3A+)](https://github.com/Death-Mask)
+<p><a href="https://www.linkedin.com/in/sal-lam-ab422026b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
   
 ##
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Get+in+Touch+%3A+)](https://github.com/Death-Mask)
-<p><a href="https://www.linkedin.com/in/sal-lam-ab422026b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Profile+Statistics+%3A)](https://github.com/Death-Mask)
+<p><a href="https://github.com/Death-Mask"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Death-Mask&color=blueviolet&style=flat-square"></a></p>
+  
+
 
 
