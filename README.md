@@ -1,4 +1,5 @@
 <!-- Github README -->
+<h1 align="center">Hi I'm Sa升升am</h1>
 <p align="center"><a href="https://github.com/Death-Mask">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Death-Mask&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
@@ -15,6 +16,9 @@
 <h3>Works :</h3>
 <li> <a href="https://github.com/Death-Mask/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
 
+<h3 align="left">Languages and Tools:</h3>
+<img title="linkedin" alt="linkedin" width="30px" src="assets/in.png"/> <img title="linkedin" alt="linkedin" width="25px" src="assets/in.png"/> <img title="linkedin" alt="linkedin" width="25px" src="assets/in.png"/> <img title="linkedin" alt="linkedin" width="25px" src="assets/in.png"/> <img title="linkedin" alt="linkedin" width="25px" src="assets/in.png"/> <img title="linkedin" alt="linkedin" width="25px" src="assets/in.png"/> <img title="linkedin" alt="linkedin" width="25px" src="assets/in.png"/>
+  
 <h3>Github Statistics :</h3>
 <a href="https://github.com/Death-Mask"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Death-Mask&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
