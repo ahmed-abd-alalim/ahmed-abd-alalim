@@ -15,8 +15,6 @@
 ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=About+me+%3A)](https://github.com/Death-Mask)
-<li>Resident of Egypt</li>
-<li>Muslim</li>
 <li>Studies at faculty of computer and information science</li> 
 <li>A part time Programmer</li> 
 <li>Cyber Security Engineer</li> 
