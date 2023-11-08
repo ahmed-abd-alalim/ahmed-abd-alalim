@@ -18,7 +18,7 @@
 <li>Studies at faculty of computer and information science</li> 
 <li>A part time Programmer</li> 
 <li>Cyber Security Engineer</li> 
-<li>Software Developer</li> 
+<li>Hacking tool Developer</li> 
 
 ##
   
