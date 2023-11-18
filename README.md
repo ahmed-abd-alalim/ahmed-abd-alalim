@@ -34,12 +34,12 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Github+Statistics+%3A)](https://github.com/Death-Mask)
 <p><a href="https://github.com/Death-Mask"><img width=650 src="https://github-profile-trophy.vercel.app/?username=Death-Mask&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a></p>
+<p><a href="https://github.com/Death-Mask"><img width=650 src="https://github-profile-trophy.vercel.app/?username=Death-Mask&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a></p>
   
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Get+in+Touch+%3A+)](https://github.com/Death-Mask)
 <p><a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Get+in+Touch+%3A+)](https://github.com/Death-Mask)
 <p><a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://custom-icon-badges.herokuapp.com/badge/TryHackMe-262c3e?style=for-the-badge&logo=tryhackme&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
   
 ##
