@@ -15,10 +15,10 @@
 ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=About+me+%3A)](https://github.com/Death-Mask)
-  <li>Studies at faculty of computer and information science</li> 
-  <li>A part time Programmer</li> 
-  <li>Cyber Security Engineer</li> 
-  <li>Hacking tool Developer</li> 
+ * Studies at faculty of computer and information science
+ * A part time Programmer
+ * Cyber Security Engineer
+ * Hacking tool Developer
 
 ##
   
@@ -28,7 +28,7 @@
 ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Works+%3A)](https://github.com/Death-Mask)
-  <li> <a href="https://github.com/Death-Mask/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
+ * <a href="https://github.com/Death-Mask/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
   
 ##
   
