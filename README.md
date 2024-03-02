@@ -3,7 +3,7 @@
   <img src="assets/banner.jpg">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=53&center=true&vCenter=true&width=1500&repeat=flus&lines=HELLO;I'm+a++Cyber+%E2%80%8B%E2%80%8BSecurity+Engineer;And;Software+Developer;My+Name+is+Ahmed+Abd+Alalim )](https://github.com/Death-Mask)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=53&center=true&vCenter=true&width=1500&repeat=flus&lines=HELLO;I'm+a++Cyber+%E2%80%8B%E2%80%8BSecurity+Engineer;And;Web+Application+Security+Tester;My+Name+is+Ahmed+Abd+Alalim )](https://github.com/Death-Mask)
 ##
 <p align="center"><a href="https://github.com/Death-Mask">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Death-Mask&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
