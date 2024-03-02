@@ -1,6 +1,6 @@
 <!-- Github README -->
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="assets/banner.jpg">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=53&center=true&vCenter=true&width=1500&repeat=flus&lines=HELLO;I'm+a++Cyber+%E2%80%8B%E2%80%8BSecurity+Engineer;And;Software+Developer;My+Name+is+Ahmed+Abd+Alalim )](https://github.com/Death-Mask)
