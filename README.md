@@ -26,13 +26,16 @@
 <p><img title="shell" alt="shell" width="50px" src="assets/shell.png"/><img title="html-5" alt="html-5" width="50px" src="assets/html-5.png"/> <img title="css" alt="css" width="50px" src="assets/css.png"/> <img title="java-script" alt="java-script" width="50px" src="assets/java-script.png"/> <img title="php" alt="php" width="50px" src="assets/php.png"/> <img title="snakes" alt="snakes" width="50px" src="assets/snakes.png"/> <img title="linux" alt="linux" width="50px" src="assets/linux.png"/> <img title="c-sharp" alt="c-sharp" width="50px" src="assets/c-sharp.png"/></p>
   
 ##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Work)](https://github.com/Death-Mask)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Hacking+Tool+%3A)](https://github.com/Death-Mask)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFFF&repeat=false&width=435&lines=Hacking+Tool%3A)](https://github.com/Death-Mask)
  * <a href="https://github.com/Death-Mask/catch-kart">catch-kart - It is a tool that enables you to obtain visa card numbers through web sites.</a>
  * <a href="https://github.com/Death-Mask/Python-Reverse.shell">Python-Reverse.shell</a> 
  * <a href="https://github.com/Death-Mask/Black-Hammer">Black-Hammer</a>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Front+End+%3A)](https://github.com/Death-Mask)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFFF&repeat=false&width=435&lines=Front+End%3A)](https://github.com/Death-Mask)
  * <a href="https://github.com/Death-Mask/Egyptour">Egyptour - Egyptour is a fully responsive tourism website template.</a>
   
 ##
