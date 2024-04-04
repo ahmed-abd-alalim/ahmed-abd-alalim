@@ -37,7 +37,7 @@
    * <a href="https://github.com/Death-Mask/Egyptour">Egyptour - Egyptour is a fully responsive tourism website template.</a>
   #
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FFFF&repeat=false&width=435&lines=CTF+Machines%3A)](https://github.com/Death-Mask)
-   * <a href="https://github.com/Death-Mask/Mother-of-the-world">Mother Of The World  - TryHackMe CTF Machine (Coming Soon).</a>
+   * <a href="https://github.com/Death-Mask/Mother-of-the-world">Mother Of The World  - TryHackMe CTF Machine.</a>
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Github+Statistics+%3A)](https://github.com/Death-Mask)
