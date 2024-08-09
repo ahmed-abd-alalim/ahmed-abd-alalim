@@ -16,9 +16,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=About+me+%3A)](https://github.com/Death-Mask)
  * Studies at faculty of computer and information science
- * A part time Programmer
- * Cyber Security Engineer
- * Hacking tool Developer
+ * Cyber security engineer (previously)
+ * Hacking tool developer  (previously)
+ * Full stack developer
 
 ##
   
