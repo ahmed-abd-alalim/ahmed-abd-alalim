@@ -47,12 +47,3 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Get+in+Touch+%3A+)](https://github.com/AhmedAbdAlalim-3A)
 <p><a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
-  
-##
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&repeat=false&width=435&lines=Profile+Statistics+%3A)](https://github.com/AhmedAbdAlalim-3A)
-<p><a href="https://github.com/AhmedAbdAlalim-3A"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=AhmedAbdAlalim-3A&color=blueviolet&style=flat-square"></a></p>
-  
-
-
-
