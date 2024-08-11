@@ -4,9 +4,9 @@
 </p>
 
 <p align="center"><a href="https://github.com/AhmedAbdAlalim-3A">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdAlalim-3A&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedAbdAlalim-3A&show_icons=true&include_all_commits=true&title_color=f7a617&icon_color=f7a617&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AhmedAbdAlalim-3A"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdAlalim-3A&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/AhmedAbdAlalim-3A"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdAlalim-3A&title_color=f7a617&icon_color=f7a617&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
 
