@@ -8,8 +8,6 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AhmedAbdAlalim-3A"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdAlalim-3A&title_color=f7a617&icon_color=f7a617&layout=compact&theme=react&hide_border=true" />
 </a></p>
-
-
 ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=About+me+%3A)](https://github.com/AhmedAbdAlalim-3A)
@@ -17,7 +15,6 @@
  * <b>Cyber security engineer (previously)</b>
  * <b>Hacking tool developer  (previously)</b>
  * <b>Full stack developer</b>
-
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Languages+and+Tools%3A)](https://github.com/AhmedAbdAlalim-3A)
@@ -41,8 +38,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Github+Statistics+%3A)](https://github.com/AhmedAbdAlalim-3A)
 <p><a href="https://github.com/AhmedAbdAlalim-3A"><img width=650 src="https://github-profile-trophy.vercel.app/?username=AhmedAbdAlalim-3A&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a></p>
-<p><a href="https://github.com/AhmedAbdAlalim-3A"><img width=650 src="https://github-profile-trophy.vercel.app/?username=AhmedAbdAlalim-3A&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a></p>
-  
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Get+in+Touch+%3A+)](https://github.com/AhmedAbdAlalim-3A)
