@@ -25,16 +25,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Activities%3A)](https://github.com/AhmedAbdAlalim-3A)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Security+Tool%3A)](https://github.com/AhmedAbdAlalim-3A)
-   * <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart">catch-kart It is a tool that enables you to obtain visa card numbers through web sites</a>
-   * <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python-Reverse.shell</a> 
-   * <a href="https://github.com/AhmedAbdAlalim-3A/Black-Hammer">Black-Hammer</a>
+   * <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart">Catch Kart - It is a tool that enables you to obtain visa card numbers through web sites</a>
+   * <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python Reverse shell</a> 
+   * <a href="https://github.com/AhmedAbdAlalim-3A/Black-Hammer">Black Hammer</a>
   #
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Front+End%3A)](https://github.com/AhmedAbdAlalim-3A)
-   * <a href="https://github.com/AhmedAbdAlalim-3A/Egyptour">Egyptour Egyptour is a fully responsive tourism website template</a>
-   * <a href="https://github.com/AhmedAbdAlalim-3A/Codakt">Codakt online courses website template</a>
+   * <a href="https://github.com/AhmedAbdAlalim-3A/Egyptour">Egyptour - Egyptour is a fully responsive tourism website template</a>
+   * <a href="https://github.com/AhmedAbdAlalim-3A/Codakt">Codakt - online courses website template</a>
   #
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=CTF+Machines%3A)](https://github.com/AhmedAbdAlalim-3A)
-   * <a href="https://github.com/AhmedAbdAlalim-3A/Mother-of-the-world">Mother Of The World TryHackMe CTF Machine</a>
+   * <a href="https://github.com/AhmedAbdAlalim-3A/Mother-of-the-world">Mother Of The World - TryHackMe CTF Machine</a>
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Github+Statistics%3A)](https://github.com/AhmedAbdAlalim-3A)
