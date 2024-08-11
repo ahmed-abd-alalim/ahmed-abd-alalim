@@ -46,4 +46,4 @@
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Get+in+Touch+%3A+)](https://github.com/AhmedAbdAlalim-3A)
-<p><a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
+<p><a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23f7a617?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
