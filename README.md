@@ -19,7 +19,7 @@
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=460&lines=programing,scripting+languages%3A)](https://github.com/AhmedAbdAlalim-3A)
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=bash,python,html,css,js,php&perline=7" />
 </p>
   
@@ -66,7 +66,7 @@
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Github+Statistics%3A)](https://github.com/AhmedAbdAlalim-3A)
-<p align="center"><a href="https://github.com/AhmedAbdAlalim-3A"><img width=650 src="https://github-profile-trophy.vercel.app/?username=AhmedAbdAlalim-3A&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a></p>
+<p><a href="https://github.com/AhmedAbdAlalim-3A"><img width=650 src="https://github-profile-trophy.vercel.app/?username=AhmedAbdAlalim-3A&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a></p>
 
 ##
   
