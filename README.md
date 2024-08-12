@@ -28,7 +28,7 @@
   #
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=400&lines=Tools%3A)](https://github.com/AhmedAbdAlalim-3A)
   <p>
-      <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,sublime,vscode&perline=7" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,sublime,anaconda,vscode&perline=7" />
   </p>
   
   #
