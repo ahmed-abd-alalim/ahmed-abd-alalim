@@ -18,7 +18,7 @@
  * <b>Full stack developer</b>
 ##
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=450&lines=programing,scripting+languages%3A)](https://github.com/AhmedAbdAlalim-3A)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=460&lines=programing,scripting+languages%3A)](https://github.com/AhmedAbdAlalim-3A)
 <p>
     <img src="https://skillicons.dev/icons?i=bash,python,html,css,js,php&perline=7" />
 </p>
