@@ -28,7 +28,7 @@
   <div>
    <ul> 
       <li>
-        <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart">Catch Kart - It is a tool that enables you to obtain visa card numbers through web sites</a>
+        <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart" style="text-decoration: none;">Catch Kart - It is a tool that enables you to obtain visa card numbers through web sites</a>
       </li>
       <li>
         <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python Reverse shell</a> 
