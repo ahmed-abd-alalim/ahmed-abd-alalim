@@ -25,7 +25,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Activities%3A)](https://github.com/AhmedAbdAlalim-3A)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Security+Tool%3A)](https://github.com/AhmedAbdAlalim-3A)
-  <div style="background-color: #f0f0f0; padding: 10px;">
+  <div>
    <ul> 
       <li><b>
         <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart">Catch Kart - It is a tool that enables you to obtain visa card numbers through web sites</a></b>
