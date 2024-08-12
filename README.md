@@ -20,14 +20,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Skills%3A)](https://github.com/AhmedAbdAlalim-3A)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=programing,scripting+languages%3A)](https://github.com/AhmedAbdAlalim-3A)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=programing,scripting+languages%3A)](https://github.com/AhmedAbdAlalim-3A) ##
   <p>
     <a href="#">
       <img src="https://skillicons.dev/icons?i=cs,python,bash,html,css,bootstrap,js,php&perline=8" />
     </a>
   </p>
 
-  ###
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=400&lines=Tools%3A)](https://github.com/AhmedAbdAlalim-3A)
   <p>
      <a href="#">
