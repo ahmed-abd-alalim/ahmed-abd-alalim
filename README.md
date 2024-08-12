@@ -34,7 +34,9 @@
   #
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=400&lines=UI/UX%3A)](https://github.com/AhmedAbdAlalim-3A)
   <p>
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=ps&perline=7" />
+    </a>
   </p>
 
   #
