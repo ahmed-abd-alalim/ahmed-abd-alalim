@@ -30,11 +30,11 @@
       <li><b>
         <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart">Catch Kart - It is a tool that enables you to obtain visa card numbers through web sites</a></b>
       </li>
-      <li>
-        <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python Reverse shell</a> 
+      <li><b>
+        <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python Reverse shell</a></b>
       </li>
-       <li>
-         <a href="https://github.com/AhmedAbdAlalim-3A/Black-Hammer">Black Hammer</a>
+       <li><b>
+         <a href="https://github.com/AhmedAbdAlalim-3A/Black-Hammer">Black Hammer</a></b>
       </li>
     </ul>
   </div>
