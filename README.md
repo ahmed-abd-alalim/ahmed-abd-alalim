@@ -19,7 +19,7 @@
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Languages+and+Tools%3A)](https://github.com/AhmedAbdAlalim-3A)
-[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=bash,python,linux,html,css,js,php&perline=7))] (https://skillicons.dev)
+[![My Skills]https://skillicons.dev/icons?i=bash,python,linux,html,css,js,php&perline=7)](https://skillicons.dev)
 <p><img title="shell" alt="shell" width="50px" src="assets/shell.png"/><img title="html-5" alt="html-5" width="50px" src="assets/html-5.png"/> <img title="css" alt="css" width="50px" src="assets/css.png"/> <img title="java-script" alt="java-script" width="50px" src="assets/java-script.png"/> <img title="php" alt="php" width="50px" src="assets/php.png"/> <img title="snakes" alt="snakes" width="50px" src="assets/snakes.png"/> <img title="linux" alt="linux" width="50px" src="assets/linux.png"/> <img title="c-sharp" alt="c-sharp" width="50px" src="assets/c-sharp.png"/></p>
   
 ##
