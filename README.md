@@ -53,11 +53,11 @@
    
   #
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=CTF+Machines%3A)](https://github.com/AhmedAbdAlalim-3A)
-   #### [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+   #### [Mother Of The World - TryHackMe CTF Machine](https://github.com/AhmedAbdAlalim-3A/Mother-of-the-world)
 <div>
   <ul> 
     <li><b>
-      <a href="https://github.com/AhmedAbdAlalim-3A/Mother-of-the-world">Mother Of The World - TryHackMe CTF Machine</a></b>
+      <a href=""></a></b>
     </li>
   </ul>
 </div>
