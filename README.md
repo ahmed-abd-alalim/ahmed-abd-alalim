@@ -74,7 +74,7 @@
   <div>
     <ul>
       <li>
-        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Bootstrap">Bootstrap - Bootstrap 4 website template</a></b> <span>( New )</span>
+        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Bootstrap">Bootstrap - Bootstrap 4 website template </a></b><span>( New )</span>
       </li> 
       <li>
         <b><a href="https://github.com/AhmedAbdAlalim-3A/Egyptour">Egyptour - Egyptour is a fully responsive tourism website template</a></b>
