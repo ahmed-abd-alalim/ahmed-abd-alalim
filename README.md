@@ -13,9 +13,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=About+me%3A)](https://github.com/AhmedAbdAlalim-3A)
  * <b>Studies at faculty of computer and information science</b>
- * <b>Cyber security engineer (previously)</b>
- * <b>Hacking tool developer  (previously)</b>
- * <b>Full stack developer</b>
+ * <b>Cyber security engineer</b>
+ * <b>Hacking tool developer</b>
 ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Skills%3A)](https://github.com/AhmedAbdAlalim-3A)
@@ -74,10 +73,10 @@
   <div>
     <ul>
       <li>
-        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Travel">Travel - Bootstrap 5 website template</a></b><span> (New)</span>
+        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Travel">Travel - Bootstrap 5 website template</a></b>
       </li> 
       <li>
-        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Bootstrap">Bootstrap - Bootstrap 4 website template</a></b><span> (New)</span>
+        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Bootstrap">Bootstrap - Bootstrap 4 website template</a></b>
       </li> 
       <li>
         <b><a href="https://github.com/AhmedAbdAlalim-3A/Egyptour">Egyptour - Egyptour is a fully responsive tourism website template</a></b>
