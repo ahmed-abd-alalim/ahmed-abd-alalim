@@ -54,9 +54,6 @@
       <li><b>
         <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python Reverse shell</a></b>
       </li>
-       <li><b>
-         <a href="https://github.com/AhmedAbdAlalim-3A/Black-Hammer">Black Hammer</a></b>
-      </li>
     </ul>
   </div>
   
