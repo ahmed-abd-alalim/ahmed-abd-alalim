@@ -43,22 +43,7 @@
   </p>
   
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Activities%3A)](https://github.com/AhmedAbdAlalim-3A)
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Security+Tool%3A)](https://github.com/AhmedAbdAlalim-3A)
-  <div>
-   <ul> 
-      <li><b>
-        <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart">Catch Kart - It is a tool that enables you to obtain visa card numbers through web sites</a></b>
-      </li>
-      <li><b>
-        <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python Reverse shell</a></b>
-      </li>
-    </ul>
-  </div>
-  
-  #
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Front+End%3A)](https://github.com/AhmedAbdAlalim-3A?tab=repositories&q=&type=&language=html)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Front+End%3A)](https://github.com/AhmedAbdAlalim-3A?tab=repositories&q=&type=&language=html)
   <div>
     <ul>
       <li>
@@ -75,7 +60,22 @@
       </li> 
     </ul> 
   </div>
-   
+
+#
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Activities%3A)](https://github.com/AhmedAbdAlalim-3A)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Security+Tool%3A)](https://github.com/AhmedAbdAlalim-3A)
+  <div>
+   <ul> 
+      <li><b>
+        <a href="https://github.com/AhmedAbdAlalim-3A/catch-kart">Catch Kart - It is a tool that enables you to obtain visa card numbers through web sites</a></b>
+      </li>
+      <li><b>
+        <a href="https://github.com/AhmedAbdAlalim-3A/Python-Reverse.shell">Python Reverse shell</a></b>
+      </li>
+    </ul>
+  </div>
+  
   #
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=CTF+Machines%3A)](https://github.com/AhmedAbdAlalim-3A)
 <div>
