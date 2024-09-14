@@ -21,7 +21,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=programing,scripting+languages%3A)](https://github.com/AhmedAbdAlalim-3A)
   <p>
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=cs,python,html,css,bootstrap,js,react,php&perline=8" />
+      <img src="https://skillicons.dev/icons?i=cs,python,html,css,bootstrap,js,react&perline=8" />
     </a>
   </p>
   
