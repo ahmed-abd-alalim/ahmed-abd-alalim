@@ -40,7 +40,7 @@
   <div>
     <ul>
        <li>
-        <b> <a href="https://github.com/AhmedAbdAlalim-3A/GalaxyNFT">GalaxyNFT - GalaxyNFT NFTs ecommerce React-Vite website</a></b> <b>( New )</b>
+        <b> <a href="https://github.com/AhmedAbdAlalim-3A/GalaxyNFT">GalaxyNFT - GalaxyNFT NFTs ecommerce React+Vite website</a></b> <b>( New )</b>
       </li> 
       <li>
         <b> <a href="https://github.com/AhmedAbdAlalim-3A/Ocazion">Ocazion - Ocazion ecommerce React website</a></b>
