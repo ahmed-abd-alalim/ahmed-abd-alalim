@@ -39,8 +39,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Front+End%3A)](https://github.com/AhmedAbdAlalim-3A?tab=repositories&q=&type=&language=html)
   <div>
     <ul>
+       <li>
+        <b> <a href="https://github.com/AhmedAbdAlalim-3A/GalaxyNFT">GalaxyNFT - GalaxyNFT NFTs ecommerce React-Vite website</a></b> <b>( New )</b>
+      </li> 
       <li>
-        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Ocazion">Ocazion - Ocazion ecommerce React website</a></b> <b>( New )</b>
+        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Ocazion">Ocazion - Ocazion ecommerce React website</a></b>
       </li> 
       <li>
         <b> <a href="https://github.com/AhmedAbdAlalim-3A/ShopGrids">ShopGrids - Bootstrap 5 ecommerce website template</a></b>
@@ -53,9 +56,6 @@
       </li> 
       <li>
         <b><a href="https://github.com/AhmedAbdAlalim-3A/Egyptour">Egyptour - Egyptour is a fully responsive tourism website template</a></b>
-      </li> 
-      <li>
-        <b> <a href="https://github.com/AhmedAbdAlalim-3A/Codakt">Codakt - online courses website template</a></b> 
       </li> 
     </ul> 
   </div>
