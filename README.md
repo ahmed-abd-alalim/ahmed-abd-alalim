@@ -18,14 +18,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Skills%3A)](https://github.com/ahmed-abd-alalim)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=programing,scripting+languages%3A)](https://github.com/ahmed-abd-alalim)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=programing+languages%3A)](https://github.com/ahmed-abd-alalim)
   <p>
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=cs,python,html,css,bootstrap,js,react&perline=8" />
+      <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,ts,md&perline=7" />
+    </a>
+  </p>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=Frameworks%3A)](https://github.com/ahmed-abd-alalim)
+  <p>
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=bootstrap,react,vite,electron&perline=4" />
+    </a>
+    <a href="#">
+        <img src="https://electron-vite.org/favicon.svg"  width="48" height="48" alt="electron vite"/>
     </a>
   </p>
   
-#
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=400&lines=Tools%3A)](https://github.com/ahmed-abd-alalim)
   <p>
      <a href="#">
