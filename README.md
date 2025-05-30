@@ -6,7 +6,7 @@
 <p align="center"><a href="https://github.com/ahmed-abd-alalim">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmed-abd-alalim&show_icons=true&include_all_commits=true&title_color=f7a617&icon_color=f7a617&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ahmed-abd-alalim"><img src="" />
+<a href="https://github.com/ahmed-abd-alalim"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abd-alalim&title_color=f7a617&icon_color=f7a617&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
 ##
