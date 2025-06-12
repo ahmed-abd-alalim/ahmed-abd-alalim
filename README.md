@@ -78,7 +78,7 @@
   <div>
     <ul>
        <li>
-        <b> <a href="https://www.behance.net/gallery/228030235/Castel-website-specialized-in-selling-mens-suits">Castle - website specialized in selling men's suits.</a></b> <b>( New )</b>  
+        <b> <a href="https://www.behance.net/gallery/228030235/Castle-website-specialized-in-selling-mens-suits">Castle - website specialized in selling men's suits.</a></b> <b>( New )</b>  
         </li> 
         <li> 
         <b> <a href="https://www.behance.net/gallery/212206865/Web-design-for-seamless-login-and-signup-pages">Web design for seamless login and signup pages.</a></b>
