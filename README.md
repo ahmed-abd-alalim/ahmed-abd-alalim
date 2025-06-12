@@ -73,6 +73,19 @@
     </ul> 
   </div>
 
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=435&lines=Web+Design%3A)](#)
+  <div>
+    <ul>
+       <li>
+        <b> <a href="https://www.behance.net/gallery/228030235/Castel-website-specialized-in-selling-mens-suits">Castel - website specialized in selling men's suits.</a></b> <b>( New )</b>  
+        </li> 
+        <li> 
+        <b> <a href="https://www.behance.net/gallery/212206865/Web-design-for-seamless-login-and-signup-pages">Web design for seamless login and signup pages.</a></b>
+      </li> 
+    </ul>
+  </div>
+
 #
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Github+Statistics%3A)](https://github.com/ahmed-abd-alalim)
