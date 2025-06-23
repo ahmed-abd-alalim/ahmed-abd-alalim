@@ -95,7 +95,10 @@
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Get+in+Touch%3A)](https://github.com/ahmed-abd-alalim)
-<p><a href="https://ahmedabdalalim.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23f7a617?style=for-the-badge&logo=Opsgenie&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
-<p><a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a></p>
-<p><a href="https://www.youtube.com/@AhmedAbdAlalim3A" target="_blank"><img src="https://img.shields.io/badge/-YouTube-white?style=for-the-badge&logo=YouTube&logoColor=red" style="border-radius: 30px" target="_blank"></a></p>
+
+<div align="center">
+<a href="https://ahmedabdalalim.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23f7a617?style=for-the-badge&logo=Opsgenie&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.youtube.com/@AhmedAbdAlalim3A" target="_blank"><img src="https://img.shields.io/badge/-YouTube-white?style=for-the-badge&logo=YouTube&logoColor=red" style="border-radius: 30px" target="_blank"></a>
+</div>
 
