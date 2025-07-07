@@ -29,7 +29,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=Frameworks%3A)](https://github.com/ahmed-abd-alalim)
   <p>
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=bootstrap,react,vite,electron&perline=4" />
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vite,electron&perline=5" />
     </a>
     <a href="#">
         <img src="https://electron-vite.org/favicon.svg"  width="48" height="48" alt="electron vite"/>
@@ -50,7 +50,10 @@
   <div>
     <ul>
       <li>
-        <b> <a href="https://github.com/ahmed-abd-alalim/snapbaker">SnapBaker - Desktop application</a></b> <b>( New )</b>
+        <b> <a href="https://github.com/ahmed-abd-alalim/Planto">Planto - Responsive eCommerce plants Website Template</a></b> <b>( New )</b>
+      </li> 
+      <li>
+        <b> <a href="https://github.com/ahmed-abd-alalim/snapbaker">SnapBaker - Desktop application</a></b>
       </li> 
        <li>
         <b> <a href="https://github.com/ahmed-abd-alalim/GalaxyNFT">GalaxyNFT - GalaxyNFT NFTs ecommerce React+Vite website</a></b>
@@ -66,10 +69,7 @@
       </li> 
       <li>
         <b> <a href="https://github.com/ahmed-abd-alalim/Bootstrap">Bootstrap - Bootstrap 4 website template</a></b>
-      </li> 
-      <li>
-        <b><a href="https://github.com/ahmed-abd-alalim/Egyptour">Egyptour - Egyptour is a fully responsive tourism website template</a></b>
-      </li> 
+      </li>  
        <b><a href="https://github.com/ahmed-abd-alalim?tab=repositories">See More...</a></b>
     </ul> 
   </div>
