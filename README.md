@@ -26,13 +26,12 @@
     </a>
   </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=Frameworks%3A)](https://github.com/ahmed-abd-alalim)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=f7a617&repeat=false&width=460&lines=Frameworks+and+libraries%3A)](https://github.com/ahmed-abd-alalim)
   <p>
     <a href="#">
       <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vite,electron&perline=5" />
-    </a>
-    <a href="#">
-        <img src="https://electron-vite.org/favicon.svg"  width="48" height="48" alt="electron vite"/>
+      <img src="https://electron-vite.org/favicon.svg"  width="48" height="48" alt="electron vite"/>
+      <img src="https://github.com/ahmed-abd-alalim/red-blossom/blob/main/website-demo-image/gsap.png" width="50px"/>
     </a>
   </p>
   
@@ -50,7 +49,10 @@
   <div>
     <ul>
       <li>
-        <b> <a href="https://github.com/ahmed-abd-alalim/Planto">Planto - Responsive eCommerce plants Website Template</a></b> <b>( New )</b>
+        <b> <a href="https://github.com/ahmed-abd-alalim/red-blossom">Red Blossom - is a modern and interactive NFT website</a></b> <b>( New )</b>
+      </li>  
+      <li>
+        <b> <a href="https://github.com/ahmed-abd-alalim/Planto">Planto - Responsive eCommerce plants Website Template</a></b>
       </li> 
       <li>
         <b> <a href="https://github.com/ahmed-abd-alalim/snapbaker">SnapBaker - Desktop application</a></b>
@@ -67,9 +69,6 @@
       <li>
         <b> <a href="https://github.com/ahmed-abd-alalim/Travel">Travel - Bootstrap 5 website template</a></b>
       </li> 
-      <li>
-        <b> <a href="https://github.com/ahmed-abd-alalim/Bootstrap">Bootstrap - Bootstrap 4 website template</a></b>
-      </li>  
        <b><a href="https://github.com/ahmed-abd-alalim?tab=repositories">See More...</a></b>
     </ul> 
   </div>
