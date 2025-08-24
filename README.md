@@ -86,11 +86,6 @@
     </ul>
   </div>
 
-#
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Github+Statistics%3A)](https://github.com/ahmed-abd-alalim)
-<p><a href="https://github.com/ahmed-abd-alalim"><img width=650 src="https://github-profile-trophy.vercel.app/?username=ahmed-abd-alalim&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a></p>
-
 ##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Get+in+Touch%3A)](https://github.com/ahmed-abd-alalim)
