@@ -13,8 +13,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=About+me%3A)](https://github.com/ahmed-abd-alalim)
  * <b>Studies at faculty of computer and information science - mansoura university</b>
- * <b>Front-end web developer</b>
- * <b>Web designer</b>
+ * <b>Front-End Web Developer</b>
+ * <b>UI/UX Designer</b>
 ##
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=f7a617&repeat=false&width=435&lines=Skills%3A)](https://github.com/ahmed-abd-alalim)
