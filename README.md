@@ -49,7 +49,10 @@
   <div>
     <ul>
       <li>
-        <b> <a href="https://github.com/ahmed-abd-alalim/red-blossom">Red Blossom - is a modern and interactive NFT website</a></b> <b>( New )</b>
+        <b> <a href="https://github.com/ahmed-abd-alalim/nizam">nizam - is a CLI tool designed to quickly and efficiently scaffold Frontend projects</a></b> <b>( New )</b>
+      </li>  
+      <li>
+        <b> <a href="https://github.com/ahmed-abd-alalim/red-blossom">Red Blossom - is a modern and interactive NFT website</a></b>
       </li>  
       <li>
         <b> <a href="https://github.com/ahmed-abd-alalim/Planto">Planto - Responsive eCommerce plants Website Template</a></b>
@@ -65,9 +68,6 @@
       </li> 
       <li>
         <b> <a href="https://github.com/ahmed-abd-alalim/ShopGrids">ShopGrids - Bootstrap 5 ecommerce website template</a></b>
-      </li> 
-      <li>
-        <b> <a href="https://github.com/ahmed-abd-alalim/Travel">Travel - Bootstrap 5 website template</a></b>
       </li> 
        <b><a href="https://github.com/ahmed-abd-alalim?tab=repositories">See More...</a></b>
     </ul> 
