@@ -94,7 +94,6 @@
 <a href="https://ahmedabdalalim.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23f7a617?style=for-the-badge&logo=Opsgenie&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ahmed-abd-alalim-286768299" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100" target="_blank"></a>
 <a href="https://www.npmjs.com/~ahmed-abd-alalim" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" width="70" target="_blank"></a>
-<a href="https://www.youtube.com/@AhmedAbdAlalim3A" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" width="100" target="_blank"></a>
 <a href="https://www.behance.net/ahmedabdalalim" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" width="100" target="_blank"></a>
 </div>
 
