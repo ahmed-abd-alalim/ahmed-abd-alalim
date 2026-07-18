@@ -49,7 +49,10 @@
   <div>
     <ul>
       <li>
-        <b> <a href="https://github.com/ahmed-abd-alalim/nizam">nizam - is a CLI tool designed to quickly and efficiently scaffold Frontend projects</a></b> <b>( New )</b>
+        <b> <a href="https://github.com/ahmed-abd-alalim/rafiq">Rafiq - control panel for managing the university system.</a></b> <b>( New )</b>
+      </li> 
+      <li>
+        <b> <a href="https://github.com/ahmed-abd-alalim/nizam">nizam - is a CLI tool designed to quickly and efficiently scaffold Frontend projects</a></b>
       </li>  
       <li>
         <b> <a href="https://github.com/ahmed-abd-alalim/red-blossom">Red Blossom - is a modern and interactive NFT website</a></b>
